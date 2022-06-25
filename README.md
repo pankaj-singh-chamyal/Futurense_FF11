@@ -6,13 +6,13 @@
 
 Project : Summary
 
-1.) Store the Data file which is in CSV format in Local Machine.(Edge Node)
-2.) From Your Edge Node store the data in MySQL DB.
-3.) Using Sqoop Job Incremental export the data to the HDFS.
-4.) From HDFS sotre the data to the Hive warehouse and create table in Hive.
-5.) Create another table in hive Where table should be Dynamically Partition on Year and Month.
-6.) Apply SCD Type-1 logic in hive.
-7.) Export the Data to the Mysql DB.
-8.) Do Data Reconcialiation .
+1.) Store the Data file which is in CSV format in Local Machine.(Edge Node)  <br />
+2.) From Your Edge Node store the data in MySQL DB.                            <br />
+3.) Using Sqoop Job Incremental export the data to the HDFS.                     <br />
+4.) From HDFS sotre the data to the Hive warehouse and create table in Hive.       <br />
+5.) Create another table in hive Where table should be Dynamically Partition on Year and Month. <br />
+6.) Apply SCD Type-1 logic in hive. <br />
+7.) Export the Data to the Mysql DB. <br />
+8.) Do Data Reconcialiation . <br />
 
 ===================================================================================================
